@@ -1,8 +1,1 @@
-body {
-    font - family: Arial;
-    text - align: center;
-}
-
-h1 {
-    color: blue;
-}
+console.log(a);
